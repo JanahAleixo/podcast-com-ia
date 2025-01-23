@@ -3,16 +3,18 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 # Ouça o podcast aqui 
-[Link para o YouTube](https://dio.me)
+[Link para o Podcast](https://dio.me)
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - ChatGPT
-- ElevenLabs
+- Google NotebookLM
+- Suno
 - Capcut
 
 ## ✨ Como foi feito ?
 
 - Roteiro e capa gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Falas geradas pelo Google NotebookLM
+- Música gerada pelo Suno
+- Capcut para unir e editar
