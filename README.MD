@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 # Ouça o podcast aqui 
-[Link para o Podcast](https://dio.me)
+[Link para o Podcast](https://youtu.be/wj8drDRNjOA)
 
 ## 💻 Tecnologias utilizadas no projeto
 
