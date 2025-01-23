@@ -5,6 +5,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 # Ouça o podcast aqui 
 [Link para o Podcast](https://youtu.be/wj8drDRNjOA)
 
+<img src = "podcast-ia-games-Cover.jpg">
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - ChatGPT
